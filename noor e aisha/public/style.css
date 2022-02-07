@@ -1,0 +1,294 @@
+*{
+    transition: 0.6s;
+}
+body{
+     background-color:#e6e9f0;
+     
+}
+.body{
+    background-color:#e6e9f0 ;
+}
+li{
+    list-style: none;
+}
+.navbar{
+    
+   background-color: white;
+    box-shadow:  rgb(0 0 0 / 35%) 0px 2px 5px;
+    top: 0px;
+    transition: 0.5 sec;
+}
+.navbarbrand{
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 80px;
+    border-radius: 25px;
+    font-family: "Jameel Noori Kasheeda", "Jameel Noori Nastaleeq", Amiri, Georgia, sans-serif !important;
+font-size: large;
+  width: 140px;
+  background-color: #bccbde;
+    color: rgb(0, 0, 0);
+}
+.navbarbrand:hover{
+    background-color:#bccbde ;
+    color: black;
+}
+.btn{
+    width: 150px;
+}
+.navlink{
+    height: 50px;
+    text-decoration: none;
+    color: black;
+}
+.nav-item:hover{
+    background-color: #bccbde;
+color: black
+
+}
+.navlink:hover{
+color: black;
+}
+.nav-item{
+    margin-left: 50px;
+}
+
+.coursehead{
+    margin-top: 20px;
+    height: 85px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow:3px 3px rgba(0, 0, 0, .3) ;
+    background-color: #adb5bd;
+    color: #343a40;
+}
+.card{
+    /* margin-left: 30px; */
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+    border-bottom: 2px solid rgb(0, 0, 0);
+   
+     perspective: 1000px;
+    
+  
+}
+.card-img-top{
+    transition: all .3s ease-in-out;
+}
+
+/* .form-control{
+    box-shadow:  rgb(0 0 0 / 80%) 0px 2px 5px;
+    outline: none;
+} */
+/* .btn{
+    box-shadow:  rgb(0 0 0 / 80%) 0px 2px 5px;
+} */
+#sbmtbtn{
+    margin-top: 50px;
+    
+}
+
+.card-text-namaz{
+    font-size: 6px;
+}
+.card-img-top{
+    transition: all .3s ease-in-out;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0.5s;
+}
+
+.aboutparagraph{
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
+font-size: 50px;
+margin-top: 40px;
+}
+#aboutpara{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+ font-size: 50px;
+ margin-top: 40px;
+}
+/* .contactus{
+    background-color: #;
+} */
+.contact{
+    margin-top: 40px;
+}
+
+.inputs{
+    outline: none;
+    height: 50px;
+    border: 1px solid #bccbde;
+    margin-top: 20px;
+    font-size: inherit;
+    box-shadow:  rgb(0 0 0 / 60%) 0px 2px 5px;
+}
+.textarea{
+    border: 1px solid #bccbde;
+    margin-top: 20px;
+    font-size: inherit;
+    outline: none;
+    box-shadow:  rgb(0 0 0 / 60%) 0px 2px 5px;
+}
+.msgbtn{
+    color: black;
+    height: 50px;
+    outline: none;
+    border: none;
+    box-shadow:  rgb(0 0 0 / 60%) 0px 2px 5px;
+    
+}
+footer{
+margin-top: 30px;
+background-color: #bccbde;
+color: black;
+}
+.footerlink{
+    text-decoration: none;
+    margin-top: 10px;
+    color: black;
+    
+}
+.links{
+    margin-top: 20px;
+   
+}
+.fblink{
+    text-decoration: none;
+    width: 30px;
+    margin-top: 10px;
+    color: black;
+    /* text-shadow: 3px 3px rgba(0, 0, 0, .3) ; */
+    
+}
+.fblink:hover{
+    color:grey;
+text-decoration: underline;
+width: 50px !important;
+
+}
+.footerlink:hover{
+color: black;
+text-decoration: underline;
+}
+.text{
+    margin-top: 80px;
+    color: black;
+}
+
+.courseform{
+    margin-top: 20px;
+   
+  
+}
+.forminp{
+    height: 45px;
+    margin-bottom: 5px;
+    outline: none;
+    box-shadow:  rgb(0 0 0 / 60%) 0px 2px 5px;
+    font-size: inherit;
+    border: 1px solid #bccbde;
+}
+
+.label{
+    font-size: 18px;
+    margin-top: 20px;
+}
+#submit{
+    margin-left: 30px;
+}
+
+.submitimg{
+    margin-top: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
